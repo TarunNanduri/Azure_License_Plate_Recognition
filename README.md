@@ -1,5 +1,10 @@
 # License Plate Recogniton Using Azure AI Services
 
+## Use Case
+Store all the traffic violators images in Azure Blob Storage, Create a Blob Trigger and perform inference using trained TensorFlow Model.
+
+This helps in recognition of traffic violators and helps our police, who are busy snapping those violators in phones and then send notifications to corresponding vehicle Number.
+
 ## Tasks Involved
 
 * Object Detection (License Plate)
@@ -24,6 +29,6 @@
 
 ## Future Scope
 
-Use Azure Functions to make it available as a REST service.
+Use Blob Trigger to perform License Plate Recogntion whenever an image uploads to your Blob Storage.
 
 <img src="https://www.henkboelman.com/content/images/2018/08/overview.jpg" height=200 width=400>
