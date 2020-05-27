@@ -8,6 +8,10 @@
 ## Azure AI Services
 
 * Custom Vision
+
+    * Dataset with Object Annotations Required to train you own model and then download model file.
+    * In this project, we have downloaded TensorFlow model.
+
 * Azure Cognitive Services OCR.
 
 ## GUI
