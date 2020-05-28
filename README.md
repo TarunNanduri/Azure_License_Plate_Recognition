@@ -29,6 +29,6 @@ This helps in recognition of traffic violators and helps our police, who are bus
 
 ## Future Scope
 
-Use Blob Trigger to perform License Plate Recogntion whenever an image uploads to your Blob Storage.
+Use Blob Trigger to perform License Plate Recognition whenever an image uploads to your Blob Storage.
 
 <img src="https://www.henkboelman.com/content/images/2018/08/overview.jpg" height=200 width=400>
