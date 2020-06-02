@@ -24,6 +24,9 @@ This helps in recognition of traffic violators and helps our police, who are bus
 ## GUI
 
 * Tkinter Python
+### Sample Screenshot
+
+<img src="sample.png">
 
 <b>To use directly without GUI, use the predict function to send in the image (using OpenCv) and get the text.</b>
 
