@@ -1,9 +1,15 @@
 # License Plate Recogniton Using Azure AI Services
 
-## Use Case
+## Use Case 1
 Store all the traffic violators images in Azure Blob Storage, Create a Blob Trigger and perform inference using trained TensorFlow Model.
 
 This helps in recognition of traffic violators and helps our police, who are busy snapping those violators in phones and then send notifications to corresponding vehicle Number.
+
+## Use Case 2
+
+Vehicles can be easily identified when this system is deployed at a toll gate, so every vehicle passing by is recorded with its registration number associated with a timestamp.
+
+This makes it easy to search for a particular vehicle passed through a toll gate, rather than looking at whole CCTV footage to find a vehicle.
 
 ## Tasks Involved
 
